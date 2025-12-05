@@ -83,3 +83,7 @@ Este é um MVP de um **Copiloto Médico** inteligente, projetado para auxiliar p
 
 - `/backend`: API FastAPI, serviços de IA, gerenciamento de arquivos.
 - `/frontend`: Aplicação Next.js, componentes de UI (MainPanel, Sidebar, RightPanel).
+
+
+## 🤖 Funcionamento
+![viewme.png](viewme.png)
